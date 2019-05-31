@@ -2,9 +2,11 @@ Psychometric research on Early Childhood Development measures. Specific interest
 
 | Name | Assessment | Assessment materials available? | How is child age measured? | Item level data? | Comments  |
 | ------------ | ------------- | ------------ | ------------- | ------------ | ------------- |
-| 1            | 2             |        3      |       4        |        5      |         6      |
-| 1            | 2             |        3      |       4        |        5      |         6      |
-| 1            | 2             |        3      |       4        |        5      |         6      |
+| Bangladesh - Building Parental Capacity to Help Child Development: A Randomized Controlled Trial of the Save the Children Early Childhood Stimulation Program in Bangladesh 2013-2014, Baseline Survey
+            | Bayley, Wolke             |        No      |       Months        |        No      |               |
+| Bangladesh - Building Parental Capacity to Help Child Development: A Randomized Controlled Trial of the Save the Children Early Childhood Stimulation Program in Bangladesh 2015, Endline Survey
+            | Bayley, Wolke             |        No      |       Months        |        No      |               |
+| Bangladesh- The Additional Impact of Two Years versus One Year of Preschool Education on Early Learning and School Readiness: Evidence From a Randomized Control Trial in Rural Bangladesh            | IDELA             |        No      |       Not available        |        Not available      |         Link to data not publicly accessible      |
 | 1            | 2             |        3      |       4        |        5      |         6      |
 | 1            | 2             |        3      |       4        |        5      |         6      |
 | 1            | 2             |        3      |       4        |        5      |         6      |
@@ -17,14 +19,6 @@ Psychometric research on Early Childhood Development measures. Specific interest
 | 1            | 2             |        3      |       4        |        5      |         6      |
 | 1            | 2             |        3      |       4        |        5      |         6      |
 
-
-
-
-
-
-
-Bangladesh- The Additional Impact of Two Years versus One Year of Preschool Education on Early Learning and School Readiness: Evidence From a Randomized Control Trial in Rural Bangladesh
-IDELA 	No	Not available  	Not available 	Link to data not publicly accessible
 
 
 Cambodia- Increasing Early Childhood Care and Development through Community Preschools in Cambodia: Evaluating the Impacts
