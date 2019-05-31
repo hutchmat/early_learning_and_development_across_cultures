@@ -4,7 +4,7 @@ Psychometric research on Early Childhood Development measures. Specific interest
 | ------------ | ------------- | ------------ | ------------- | ------------ | ------------- |
 | Bangladesh - Building Parental Capacity to Help Child Development: A Randomized Controlled Trial of the Save the Children Early Childhood Stimulation Program in Bangladesh 2013-2014, Baseline Survey
  | Bayley, Wolke  |       No       |       Months        |     No 	         |               |
-| 1 | 2  |       3       |        4       |       5       |      6         |
+| Bangladesh - Building Parental Capacity to Help Child Development: A Randomized Controlled Trial of the Save the Children Early Childhood Stimulation Program in Bangladesh 2015, Endline Survey | Bayley, Wolke  |       No       |        Months       |       No       |               |
 | Content Cell | Content Cell  |              |               |              |               |
 | Content Cell | Content Cell  |              |               |              |               |
 | Content Cell | Content Cell  |              |               |              |               |
@@ -24,8 +24,8 @@ Psychometric research on Early Childhood Development measures. Specific interest
 | Content Cell | Content Cell  |              |               |              |               |	 	 	
 
 
-Bangladesh - Building Parental Capacity to Help Child Development: A Randomized Controlled Trial of the Save the Children Early Childhood Stimulation Program in Bangladesh 2015, Endline Survey
-Bayley, Wolke	No 	Months 	No 	
+
+
 
 
 Bangladesh- The Additional Impact of Two Years versus One Year of Preschool Education on Early Learning and School Readiness: Evidence From a Randomized Control Trial in Rural Bangladesh
