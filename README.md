@@ -1,1 +1,1 @@
-# early_learning_and_development_across_cultures
+Psychometric research on Early Childhood Development measures. Specific interests in international comparisons and utility for program evaluation. 
