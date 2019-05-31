@@ -2,7 +2,6 @@ Psychometric research on Early Childhood Development measures. Specific interest
 
 | Name | Assessment | Assessment materials available? | How is child age measured? | Item level data? | Comments  |
 | ------------ | ------------- | ------------ | ------------- | ------------ | ------------- |
-
 | 1            | 2             |        3      |       4        |        5      |         6      |
 | 1            | 2             |        3      |       4        |        5      |         6      |
 | 1            | 2             |        3      |       4        |        5      |         6      |
