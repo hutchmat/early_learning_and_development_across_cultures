@@ -14,42 +14,8 @@ Psychometric research on Early Childhood Development measures. Specific interest
 | India- Impact Evaluation of an Additional Worker on Early Childhood Stimulation in India’s Integrated Child Development Services Scheme            | Not specified (mentions “Children included in the intervention are evaluated using international standardized tests for motors skills, communication, social interaction, problem solving and cognitive development.”             |        No     |       Not available         |        Not Available      |         	Link to data not publicly accessible      |
 | Indonesia- Evaluating the longer-term impact and sustainability of community based ECD centers in rural Indonesia| Early Development Instrument (EDI)             |        No      |       	Not available        |        	Not Available      |         	Link to data not publicly accessible      |
 | Kenya- Encouraging multi-lingual early reading as the groundwork for education (EMERGE): A multilingual storybook evaluation in Kenya            | BPVS and other not specified measures              |        No      |       Months        |        	Not available       |         	Link to data not publicly accessible      |
-| 1            | 2             |        3      |       4        |        5      |         6      |
-| 1            | 2             |        3      |       4        |        5      |         6      |
-| 1            | 2             |        3      |       4        |        5      |         6      |
-| 1            | 2             |        3      |       4        |        5      |         6      |
-| 1            | 2             |        3      |       4        |        5      |         6      |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Madagascar-Evaluation of a Behavioral Approach to Improve Outcomes in Early Childhood
-Malawi Development Assessment Test	No 	Not available 	Not available 	Link to data not publicly accessible
-
-
-Malawi - Protecting Early Childhood Development in Malawi Impact Evaluation Survey 2011-2012, Baseline
-Leiter	Yes 	Date of Birth	Yes 	
-
-
-Malawi - Protecting Early Childhood Development in Malawi Impact Evaluation Survey 2013, Midline
-Leiter	Yes 	Date of Birth	Yes 	
-
-
-Malawi - Protecting Early Childhood Development Impact Evaluation 2014-2015, Endline Survey
-Leiter, Peabody Picture Vocabulary Test (PPVT), Early Grade Mathematics Assessment (EGMA)	Yes 	Date of Birth 	Yes 	
-
-
-Mali: Impact and Cost Effectiveness of an Integrated Parenting, Nutrition and Malaria Prevention Package in Mali
-Mentions cognitive performance but does not specify how it is measured 	No 	Not available 	Not available 	Link to data not publicly accessible
+| Madagascar-Evaluation of a Behavioral Approach to Improve Outcomes in Early Childhood            | Malawi Development Assessment Test             |        No      |       	Not available         |         	Not available       |         Link to data not publicly accessible      |
+| Malawi - Protecting Early Childhood Development in Malawi Impact Evaluation Survey 2011-2012, Baseline            | Leiter             |        Yes     |       	Date of Birth        |         	Yes       |               |
+| Malawi - Protecting Early Childhood Development in Malawi Impact Evaluation Survey 2013, Midline            | Leiter             |        Yes      |       	Date of Birth        |        Yes      |              |
+| Malawi - Protecting Early Childhood Development Impact Evaluation 2014-2015, Endline Survey            | Leiter, Peabody Picture Vocabulary Test (PPVT), Early Grade Mathematics Assessment (EGMA)             |        Yes      |       Date of Birth         |        Yes      |               |
+| Mali: Impact and Cost Effectiveness of an Integrated Parenting, Nutrition and Malaria Prevention Package in Mali            | Mentions cognitive performance but does not specify how it is measured             |        No      |       	Not available        |        	Not available      |          	Link to data not publicly accessible      |
