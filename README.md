@@ -13,6 +13,7 @@ Psychometric research on Early Childhood Development measures. Specific interest
 | India - Child Stimulation Programs in Madhya Pradesh Impact Evaluation 2014, Baseline Survey            | Not specified (mentions “Children included in the intervention are evaluated using international standardized tests for motors skills, communication, social interaction, problem solving and cognitive development.”             |        No      |       	Date of Birth  specified in parent survey (page 7)        |        No      |         Possibly only parent reporting for child assessment      |
 | India- Impact Evaluation of an Additional Worker on Early Childhood Stimulation in India’s Integrated Child Development Services Scheme            | Not specified (mentions “Children included in the intervention are evaluated using international standardized tests for motors skills, communication, social interaction, problem solving and cognitive development.”             |        No     |       Not available         |        Not Available      |         	Link to data not publicly accessible      |
 | Indonesia- Evaluating the longer-term impact and sustainability of community based ECD centers in rural Indonesia| Early Development Instrument (EDI)             |        No      |       	Not available        |        	Not Available      |         	Link to data not publicly accessible      |
+| Kenya- Encouraging multi-lingual early reading as the groundwork for education (EMERGE): A multilingual storybook evaluation in Kenya            | BPVS and other not specified measures              |        No      |       Months        |        	Not available       |         	Link to data not publicly accessible      |
 | 1            | 2             |        3      |       4        |        5      |         6      |
 | 1            | 2             |        3      |       4        |        5      |         6      |
 | 1            | 2             |        3      |       4        |        5      |         6      |
@@ -31,9 +32,7 @@ Psychometric research on Early Childhood Development measures. Specific interest
 
 
 
-Kenya- Encouraging multi-lingual early reading as the groundwork for education (EMERGE): A multilingual
-storybook evaluation in Kenya
-BPVS and other not specified measures 	No 	Months 	Not available 	Link to data not publicly accessible
+
 
 
 Madagascar-Evaluation of a Behavioral Approach to Improve Outcomes in Early Childhood
