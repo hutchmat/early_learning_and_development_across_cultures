@@ -19,11 +19,3 @@ Psychometric research on Early Childhood Development measures. Specific interest
 | Malawi - Protecting Early Childhood Development in Malawi Impact Evaluation Survey 2013, Midline            | Leiter             |        Yes      |       	Date of Birth        |        Yes      |              |
 | Malawi - Protecting Early Childhood Development Impact Evaluation 2014-2015, Endline Survey            | Leiter, Peabody Picture Vocabulary Test (PPVT), Early Grade Mathematics Assessment (EGMA)             |        Yes      |       Date of Birth         |        Yes      |               |
 | Mali: Impact and Cost Effectiveness of an Integrated Parenting, Nutrition and Malaria Prevention Package in Mali            | Mentions cognitive performance but does not specify how it is measured             |        No      |       	Not available        |        	Not available      |          	Link to data not publicly accessible      |
-m       
-hjklhjklhjklhjkhljkhklhkjhkl
-fdsafdsafd
-fdsafds
-fdsfdsafdaf
-hjklhjklhjklhjkhljkhklhkjhkljkl;
-
-jkl;j
